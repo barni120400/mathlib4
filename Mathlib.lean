@@ -6749,6 +6749,7 @@ public import Mathlib.RingTheory.Morita.Basic
 public import Mathlib.RingTheory.Morita.Matrix
 public import Mathlib.RingTheory.Multiplicity
 public import Mathlib.RingTheory.MvPolynomial
+public import Mathlib.RingTheory.MvPolynomial.Apolarity
 public import Mathlib.RingTheory.MvPolynomial.Basic
 public import Mathlib.RingTheory.MvPolynomial.EulerIdentity
 public import Mathlib.RingTheory.MvPolynomial.Expand
